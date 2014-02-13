@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/scrape</url>
+    <description>Scrape the Content of suppenladen.com</description>
+    <schedule>every 60 minutes</schedule>
+    <timezone>Europe/Berlin</timezone>
+  </cron>
+    <cron>
+    <url>/scrapenw</url>
+    <description>Scrape the Content of suppenladen.com</description>
+    <schedule>every 60 minutes</schedule>
+    <timezone>Europe/Berlin</timezone>
+  </cron>
+</cronentries>
